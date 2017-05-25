@@ -14,6 +14,6 @@ Another paragraph
 *Bullets
 *points
 
-http://wwww.google.com
+http://google.com
 
-[Google](wwww.google.com)
+[Google](google.com)
