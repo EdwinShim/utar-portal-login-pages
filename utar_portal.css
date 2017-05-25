@@ -1,0 +1,37 @@
+header {
+    margin: 0px;
+    padding: 0px;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #444;
+    letter-spacing: normal;
+    font-size: 62.5%;
+}
+
+#leftcol {
+    float: left;
+    width: 310px;
+    padding: 0px;
+    font-size: 12px;
+    clear: both;
+}
+
+#middlecol {
+    width: 260px;
+    font-size: 13px;
+    float: left;
+    margin-top: 3em;
+    font-size: 1em;
+}   
+
+#rightcol {
+    float: right;
+    width: 310px;
+    padding: 0px;
+    font-size: 12px;
+    clear: both;
+}
+
+form {
+    display:block;
+}
