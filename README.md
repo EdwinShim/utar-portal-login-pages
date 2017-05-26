@@ -13,9 +13,11 @@ Another paragraph
 
 *Bullets
 *points
+---
+## contributor
 
-Edwin Shim <yiheng46@yahoo.com>
-
+- Edwin Shim <yiheng46@yahoo.com>
+---
 http://google.com
 
 [Google](google.com)
