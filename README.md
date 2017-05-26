@@ -14,7 +14,7 @@ Another paragraph
 *Bullets
 *points
 ---
-## contributor
+## Contributor
 
 - Edwin Shim <yiheng46@yahoo.com>
 ---
