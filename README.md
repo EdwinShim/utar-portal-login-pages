@@ -4,7 +4,7 @@ Hello World
 A Hello World project
 Another paragraph
 ```
-<p>This is some text</p>
+<p>This is a demo UTAR portal login page</p>
 ```
 1. This
 2. is
@@ -13,6 +13,8 @@ Another paragraph
 
 *Bullets
 *points
+
+Edwin Shim <yiheng46@yahoo.com>
 
 http://google.com
 
